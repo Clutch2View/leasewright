@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label>Aircraft Type</label>
-    <pluralLabel>Aircraft Types</pluralLabel>
+    <label>Asset Type</label>
+    <pluralLabel>Asset Types</pluralLabel>
     <nameField>
         <label>Type Designation</label>
         <type>Text</type>
     </nameField>
-    <description>Reference data for aircraft type certificates (e.g., H145, AW139, S-92). Linked to Aircraft records for fleet categorization.</description>
+    <description>Reference data for asset makes and models. Linked to Asset records for portfolio categorisation.</description>
     <deploymentStatus>Deployed</deploymentStatus>
     <sharingModel>ReadWrite</sharingModel>
     <enableReports>true</enableReports>
