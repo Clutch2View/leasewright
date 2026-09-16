@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label>Aircraft</label>
-    <pluralLabel>Aircraft</pluralLabel>
+    <label>Asset</label>
+    <pluralLabel>Assets</pluralLabel>
     <nameField>
-        <label>MSN</label>
-        <displayFormat>MSN-{0000}</displayFormat>
+        <label>Serial Number</label>
+        <displayFormat>AST-{0000}</displayFormat>
         <type>AutoNumber</type>
     </nameField>
-    <description>Represents a physical aircraft (helicopter or fixed-wing) identified by Manufacturer Serial Number (MSN). Core asset record for all leasing operations.</description>
+    <description>Represents a physical leased asset identified by its serial number. Core asset record for all leasing operations.</description>
     <deploymentStatus>Deployed</deploymentStatus>
     <sharingModel>ReadWrite</sharingModel>
     <enableActivities>true</enableActivities>
