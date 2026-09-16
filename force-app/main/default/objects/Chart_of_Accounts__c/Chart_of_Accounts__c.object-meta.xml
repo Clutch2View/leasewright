@@ -6,7 +6,7 @@
         <label>Account Code</label>
         <type>Text</type>
     </nameField>
-    <description>General ledger account structure for RotorERP financial reporting. Supports multi-book accounting for IFRS and local GAAP standards.</description>
+    <description>General ledger account structure for Leasewright financial reporting. Supports multi-book accounting for IFRS and local GAAP standards.</description>
     <deploymentStatus>Deployed</deploymentStatus>
     <sharingModel>ReadWrite</sharingModel>
     <enableReports>true</enableReports>
