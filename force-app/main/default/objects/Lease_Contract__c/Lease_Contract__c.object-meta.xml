@@ -7,7 +7,7 @@
         <displayFormat>LC-{00000}</displayFormat>
         <type>AutoNumber</type>
     </nameField>
-    <description>Master lease agreement between lessor and lessee for an aircraft. Tracks commercial terms, IFRS 16 classification, and billing schedules.</description>
+    <description>Master lease agreement between lessor and lessee for an asset. Tracks commercial terms, IFRS 16 classification, and billing schedules.</description>
     <deploymentStatus>Deployed</deploymentStatus>
     <sharingModel>ReadWrite</sharingModel>
     <enableActivities>true</enableActivities>
