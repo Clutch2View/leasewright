@@ -6,7 +6,7 @@
         <label>Entity Name</label>
         <type>Text</type>
     </nameField>
-    <description>Represents a legal entity (lessor or operator) within RotorERP. Maps to corporate structures for multi-entity aviation leasing.</description>
+    <description>Represents a legal entity (lessor or operator) within Leasewright. Maps to corporate structures for multi-entity leasing groups.</description>
     <deploymentStatus>Deployed</deploymentStatus>
     <sharingModel>ReadWrite</sharingModel>
     <enableActivities>true</enableActivities>
