@@ -6,7 +6,7 @@
         <label>Lessee Name</label>
         <type>Text</type>
     </nameField>
-    <description>The operator or airline leasing an aircraft. Contains company details, credit information, and GDPR-tagged contact data.</description>
+    <description>The customer leasing an asset. Contains company details, credit information, and GDPR-tagged contact data.</description>
     <deploymentStatus>Deployed</deploymentStatus>
     <sharingModel>ReadWrite</sharingModel>
     <enableActivities>true</enableActivities>
