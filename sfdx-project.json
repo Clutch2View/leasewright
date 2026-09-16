@@ -3,17 +3,17 @@
     {
       "path": "force-app",
       "default": true,
-      "package": "rotorerp-core",
+      "package": "leasewright-core",
       "versionName": "Core Foundation",
       "versionNumber": "1.0.0.NEXT",
-      "versionDescription": "RotorERP Core Foundation — Legal Entity, Aircraft, Lease Contract, and supporting objects"
+      "versionDescription": "Leasewright Core Foundation — Legal Entity, Asset, Lease Contract, and supporting objects"
     }
   ],
-  "name": "RotorERP",
-  "namespace": "rotorerp",
+  "name": "Leasewright",
+  "namespace": "leasewright",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "62.0",
   "packageAliases": {
-    "rotorerp-core": "0Ho000000000000000"
+    "leasewright-core": "0Ho000000000000000"
   }
 }
