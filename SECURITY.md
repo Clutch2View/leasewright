@@ -1,4 +1,4 @@
-# Security Policy — RotorERP
+# Security Policy — Leasewright
 
 ## Supported Versions
 
@@ -9,7 +9,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within RotorERP, please send an e-mail to **security@apexrotorcraft.example** (fictional — replace with your real address before deployment).
+If you discover a security vulnerability within Leasewright, please send an e-mail to **security@leasewright.example** (fictional — replace with your real address before deployment).
 
 **Do not** open a public GitHub issue for security vulnerabilities.
 
@@ -19,7 +19,7 @@ We will acknowledge receipt within **48 hours** and provide a detailed response 
 
 ### DORA (Digital Operational Resilience Act)
 
-RotorERP is architected to support DORA compliance:
+Leasewright is architected to support DORA compliance on whichever CRM or ERP it is built on:
 
 - **Immutable Audit Trails** — All financial ledger entries are append-only
 - **Strict Access Controls** — Role-based permission sets mapped to Microsoft Entra ID groups
@@ -54,4 +54,4 @@ RotorERP is architected to support DORA compliance:
 
 ---
 
-*This security policy applies to the RotorERP open-source project. Organizations deploying RotorERP must conduct their own security assessments and adapt this policy to their specific regulatory requirements.*
+*This security policy applies to the Leasewright open-source project. Organizations deploying Leasewright must conduct their own security assessments and adapt this policy to their specific regulatory requirements.*
